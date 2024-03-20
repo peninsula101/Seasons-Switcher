@@ -32,3 +32,7 @@ Use the image URLs given below.
     https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/seasons-switcher-autumn-md-img.png
     https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/seasons-switcher-winter-xs-img.png
     https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/seasons-switcher-winter-md-img.png
+
+
+https://github.com/peninsula101/Seasons-Switcher/assets/108569220/c967b74f-17f4-4642-a32a-7827a5081894
+
